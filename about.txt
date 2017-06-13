@@ -1,0 +1,39 @@
+<html>
+<head>
+<title>HAJARAH'S HOTEL</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body class="container">
+	<header class="top">
+		<div class="header">
+			<H1>HAJARAH'S HOTEL</H1>
+			<span class="note">at our hotel we offer the best services like sauna, lunch and accomdation</span>
+		</div>
+	</header>
+	<body>
+		<div class="nav"> 
+		<a href="hotel.html">HOTEL</a> 
+		<a href="about.html">ABOUT US</a>
+		<a href="contact.html">CONTACT US</a>
+
+
+
+		</div>
+		<div class="banner">banner</div>
+		<div class="right">right</div>
+		<div class="left">left</div>
+		<div class="footer">footer</div>
+
+
+	</body>	
+	
+
+
+
+
+
+
+
+</body>
+
+</html>
