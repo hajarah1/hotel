@@ -1,0 +1,52 @@
+.container{
+	background-color: red;
+	width: 1200px;
+	margin: auto;
+}
+.header{
+	background-color: pink;
+	height: 100px;
+	width: 600px;
+	float: left;
+}
+.nav{
+	background-color: lavender;
+	height: 100px;
+	width: 600px;
+	float: right;
+}
+.nav a{
+	
+	text-align: center;
+}
+
+.banner{
+	background-color: brown;
+	width: 1200px;
+	height: 150px;
+}
+.right{
+	background-color: gray;
+	width: 600px;
+	height: 800px;
+	float: right;
+}
+.left{
+	background-color: green;
+	width: 600px;
+	height: 800px;
+	float: left;
+}
+.footer{
+	background-color: lightgreen;
+	width: 1200px;
+	height: 20px;
+	clear: both;
+}
+.note{
+	font-style: italic;
+	color: blue;
+}
+.top{
+	text-align: center;
+}
